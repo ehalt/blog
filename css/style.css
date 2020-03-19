@@ -1,0 +1,115 @@
+/* home font */
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+/*  font-family: 'Abril Fatface', cursive;  */
+
+/* fOR PARAGRAPH TAG */
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tamma+2&display=swap');
+
+/* font-family: 'Baloo Tamma 2', cursive; */
+
+/* For h2-h6 */
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+
+/* font-family: 'Questrial', sans-serif; */
+
+
+/* Nav font */
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+/* font-family: 'Spartan', sans-serif; */
+
+
+/* Logo font */
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+/* font-family: 'Satisfy', cursive; */
+
+
+/*
+
+    ====== navigation ======
+
+*/
+
+
+.navbar a{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Spartan', sans-serif;
+}
+.nv{
+    padding-top: 1%;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+
+/*
+
+=========== home section ===========
+
+*/
+.html {
+    scroll-behavior: smooth;
+}
+
+h2,h3,h4,h5,h6{
+    font-family: 'Questrial', sans-serif;
+}
+
+.homebg{
+    background: url(../img/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hmr{
+    padding-top: 17%;
+    padding-bottom: 17%;
+}
+/* ====================== table of content ======================= */
+.tocwrap{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.i{
+    color: #16A878;
+}
+.t {
+    color: #16A878;
+}
+.tx a{
+    text-decoration: none;
+    color: #111;
+    padding: 10px 15px;
+    border: 1px solid black;
+    font-size: 15px;
+    transition: 1s;
+}
+.tx a:hover{
+    background: #16A878;
+    transition: 1s ease;
+    color: #fff;
+}
+.cco{
+    color: #FF5733;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .popup{
+      padding-top: 2%;
+      padding-bottom: 3%;
+  }
+  .popup a{
+        color: #16A878;
+        font-size: 30px;
+  }
